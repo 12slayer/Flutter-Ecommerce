@@ -39,7 +39,7 @@ class _CartPageState extends State<CartPage> {
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
               ),
 
-              const SizedBox(height: 10),
+              const SizedBox(height: 15),
 
               Expanded(
                 child: ListView.builder(
